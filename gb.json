@@ -1,0 +1,814 @@
+[{
+  "_id": {
+    "$oid": "63e00ea110b219e453de6d1d"
+  },
+  "name": " Разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer"
+},{
+  "_id": {
+    "$oid": "63e00ea310b219e453de6d1e"
+  },
+  "name": " Аналитик коммерческих данных",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/commercial-data"
+},{
+  "_id": {
+    "$oid": "63e00ea410b219e453de6d1f"
+  },
+  "name": " Аналитик продаж",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/sales"
+},{
+  "_id": {
+    "$oid": "63e00ea510b219e453de6d20"
+  },
+  "name": " Маркетинговый аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/marketing"
+},{
+  "_id": {
+    "$oid": "63e00ea710b219e453de6d21"
+  },
+  "name": " Веб-аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/web"
+},{
+  "_id": {
+    "$oid": "63e00ea810b219e453de6d22"
+  },
+  "name": " Data Science аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/data-science"
+},{
+  "_id": {
+    "$oid": "63e00ea910b219e453de6d23"
+  },
+  "name": " Игровой аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/game"
+},{
+  "_id": {
+    "$oid": "63e00eaa10b219e453de6d24"
+  },
+  "name": " Финансовый аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/finance"
+},{
+  "_id": {
+    "$oid": "63e00eac10b219e453de6d25"
+  },
+  "name": " Продуктовый аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/product"
+},{
+  "_id": {
+    "$oid": "63e00ead10b219e453de6d26"
+  },
+  "name": " Системный аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/analyst"
+},{
+  "_id": {
+    "$oid": "63e00eae10b219e453de6d27"
+  },
+  "name": " BI (Business Intelligence) аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/bi"
+},{
+  "_id": {
+    "$oid": "63e00eb010b219e453de6d28"
+  },
+  "name": " Аналитик больших данных",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/big-data"
+},{
+  "_id": {
+    "$oid": "63e00eb110b219e453de6d29"
+  },
+  "name": " Бизнес-аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/business"
+},{
+  "_id": {
+    "$oid": "63e00eb210b219e453de6d2a"
+  },
+  "name": " Инженер-аналитик PRO",
+  "level": " Middle+",
+  "learning_lines": " 36 месяцев",
+  "price_per_month": " 8616 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/pro"
+},{
+  "_id": {
+    "$oid": "63e00eb410b219e453de6d2b"
+  },
+  "name": " Инженер-аналитик Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/master"
+},{
+  "_id": {
+    "$oid": "63e00eb510b219e453de6d2c"
+  },
+  "name": " Инженер-аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst"
+},{
+  "_id": {
+    "$oid": "63e00eb610b219e453de6d2d"
+  },
+  "name": " Менеджер по работе с маркетплейсами",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/e-commerce"
+},{
+  "_id": {
+    "$oid": "63e00eb710b219e453de6d2e"
+  },
+  "name": " Редактор",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/copywriter"
+},{
+  "_id": {
+    "$oid": "63e00eb910b219e453de6d2f"
+  },
+  "name": " Таргетолог",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/targeting"
+},{
+  "_id": {
+    "$oid": "63e00eb910b219e453de6d30"
+  },
+  "name": " SEO-специалист",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/seo"
+},{
+  "_id": {
+    "$oid": "63e00eba10b219e453de6d31"
+  },
+  "name": " SMM-менеджер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/smm-management"
+},{
+  "_id": {
+    "$oid": "63e00ebc10b219e453de6d32"
+  },
+  "name": " Бренд-менеджер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/brand"
+},{
+  "_id": {
+    "$oid": "63e00ebd10b219e453de6d33"
+  },
+  "name": " Продуктовый маркетолог",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/product"
+},{
+  "_id": {
+    "$oid": "63e00ebe10b219e453de6d34"
+  },
+  "name": " Интернет-маркетолог",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/internet"
+},{
+  "_id": {
+    "$oid": "63e00ebf10b219e453de6d35"
+  },
+  "name": " Digital-маркетолог Специалист",
+  "level": " Intern",
+  "learning_lines": " 6 месяцев",
+  "price_per_month": " 2063 ₽",
+  "url": "https://gb.ru/geek_university/marketing/digital/specialist"
+},{
+  "_id": {
+    "$oid": "63e00ec110b219e453de6d36"
+  },
+  "name": " Digital-маркетолог",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 3513 ₽",
+  "url": "https://gb.ru/geek_university/marketing/digital"
+},{
+  "_id": {
+    "$oid": "63e00ec210b219e453de6d37"
+  },
+  "name": " Дизайнер интерьера",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/design/interior"
+},{
+  "_id": {
+    "$oid": "63e00ec310b219e453de6d38"
+  },
+  "name": " Дизайн жилых и общественных интерьеров",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/design/interior-design-residential-and-public"
+},{
+  "_id": {
+    "$oid": "63e00ec510b219e453de6d39"
+  },
+  "name": " UX/UI-дизайнер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/design/interface"
+},{
+  "_id": {
+    "$oid": "63e00ec610b219e453de6d3a"
+  },
+  "name": " Графический дизайнер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/design/graphic"
+},{
+  "_id": {
+    "$oid": "63e00ec710b219e453de6d3b"
+  },
+  "name": " Предметный дизайнер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/design/modeling-3d"
+},{
+  "_id": {
+    "$oid": "63e00ec810b219e453de6d3c"
+  },
+  "name": " Дизайнер среды",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru//geek_university/design/environment-designer"
+},{
+  "_id": {
+    "$oid": "63e00ec910b219e453de6d3d"
+  },
+  "name": " Цифровой дизайнер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/design/digital"
+},{
+  "_id": {
+    "$oid": "63e00eca10b219e453de6d3e"
+  },
+  "name": " Дизайнер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/design"
+},{
+  "_id": {
+    "$oid": "63e00ecc10b219e453de6d3f"
+  },
+  "name": " Продакт-менеджер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/product-manager"
+},{
+  "_id": {
+    "$oid": "63e00ecd10b219e453de6d40"
+  },
+  "name": " Проджект-менеджер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/project-manager"
+},{
+  "_id": {
+    "$oid": "63e00ece10b219e453de6d41"
+  },
+  "name": " Системный администратор",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/architecture/sys-admin"
+},{
+  "_id": {
+    "$oid": "63e00ecf10b219e453de6d42"
+  },
+  "name": " Сетевой инженер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/architecture/network-engineer"
+},{
+  "_id": {
+    "$oid": "63e00ed010b219e453de6d43"
+  },
+  "name": " DevOps-инженер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/architecture/devops"
+},{
+  "_id": {
+    "$oid": "63e00ed110b219e453de6d44"
+  },
+  "name": " Инженер по информационной безопасности",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer/security"
+},{
+  "_id": {
+    "$oid": "63e00ed310b219e453de6d45"
+  },
+  "name": " Инженер по автоматизации тестирования",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer/auto"
+},{
+  "_id": {
+    "$oid": "63e00ed410b219e453de6d46"
+  },
+  "name": " Инженер по ручному тестированию",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer/manual"
+},{
+  "_id": {
+    "$oid": "63e00ed510b219e453de6d47"
+  },
+  "name": " Инженер по тестированию PRO",
+  "level": " Middle+",
+  "learning_lines": " 36 месяцев",
+  "price_per_month": " 8616 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer/pro"
+},{
+  "_id": {
+    "$oid": "63e00ed610b219e453de6d48"
+  },
+  "name": " Инженер по тестированию Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer/master"
+},{
+  "_id": {
+    "$oid": "63e00ed710b219e453de6d49"
+  },
+  "name": " Инженер по тестированию",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/qa-engineer"
+},{
+  "_id": {
+    "$oid": "63e00ed810b219e453de6d4a"
+  },
+  "name": " Специалист по ручному тестированию",
+  "level": " Intern",
+  "learning_lines": " 6 месяцев",
+  "price_per_month": " 2445 ₽",
+  "url": "https://gb.ru/geek_university/it-specialist/qa"
+},{
+  "_id": {
+    "$oid": "63e00eda10b219e453de6d4b"
+  },
+  "name": " HR (Human Resources) аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/hr"
+},{
+  "_id": {
+    "$oid": "63e00edb10b219e453de6d4c"
+  },
+  "name": " Бизнес аналитик в ИТ",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/it"
+},{
+  "_id": {
+    "$oid": "63e00edc10b219e453de6d4d"
+  },
+  "name": " Системный и бизнес аналитик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/system-business"
+},{
+  "_id": {
+    "$oid": "63e00ede10b219e453de6d4e"
+  },
+  "name": " Специалист по аналитике",
+  "level": " Intern",
+  "learning_lines": " 6 месяцев",
+  "price_per_month": " 2445 ₽",
+  "url": "https://gb.ru/geek_university/it-specialist/analyst"
+},{
+  "_id": {
+    "$oid": "63e00edf10b219e453de6d4f"
+  },
+  "name": " Инженер искусственного интеллекта",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/ai-engineer"
+},{
+  "_id": {
+    "$oid": "63e00ee010b219e453de6d50"
+  },
+  "name": " Data Science в медицине",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/analyst/data-science-medicine"
+},{
+  "_id": {
+    "$oid": "63e00ee110b219e453de6d51"
+  },
+  "name": " Разработчик игр на Unity",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/unity"
+},{
+  "_id": {
+    "$oid": "63e00ee210b219e453de6d52"
+  },
+  "name": " Разработчик игр на Unreal Engine",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/unrealengine"
+},{
+  "_id": {
+    "$oid": "63e00ee310b219e453de6d53"
+  },
+  "name": " Инженер-программист PHP",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/php"
+},{
+  "_id": {
+    "$oid": "63e00ee510b219e453de6d54"
+  },
+  "name": " Инженер-программист Go Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/go/master"
+},{
+  "_id": {
+    "$oid": "63e00ee610b219e453de6d55"
+  },
+  "name": " Инженер-программист Go",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/go"
+},{
+  "_id": {
+    "$oid": "63e00ee710b219e453de6d56"
+  },
+  "name": " Инженер-программист JavaScript Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/javascript/master"
+},{
+  "_id": {
+    "$oid": "63e00ee810b219e453de6d57"
+  },
+  "name": " Инженер-программист JavaScript",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/javascript"
+},{
+  "_id": {
+    "$oid": "63e00ee910b219e453de6d58"
+  },
+  "name": " Разработчик приложений на iOS",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/ios"
+},{
+  "_id": {
+    "$oid": "63e00eeb10b219e453de6d59"
+  },
+  "name": " Разработчик приложений на Android",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/android"
+},{
+  "_id": {
+    "$oid": "63e00eec10b219e453de6d5a"
+  },
+  "name": " 1С-разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/1c-developer"
+},{
+  "_id": {
+    "$oid": "63e00eed10b219e453de6d5b"
+  },
+  "name": " Инженер-программист C++ Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/cpp/master"
+},{
+  "_id": {
+    "$oid": "63e00eee10b219e453de6d5c"
+  },
+  "name": " Инженер-программист C++",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/cpp"
+},{
+  "_id": {
+    "$oid": "63e00eef10b219e453de6d5d"
+  },
+  "name": " Инженер-программист C# Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/csharp/master"
+},{
+  "_id": {
+    "$oid": "63e00ef010b219e453de6d5e"
+  },
+  "name": " Инженер-программист C#",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/csharp"
+},{
+  "_id": {
+    "$oid": "63e00ef110b219e453de6d5f"
+  },
+  "name": " Веб-разработчик Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/web/master"
+},{
+  "_id": {
+    "$oid": "63e00ef210b219e453de6d60"
+  },
+  "name": " Веб-разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/web"
+},{
+  "_id": {
+    "$oid": "63e00ef310b219e453de6d61"
+  },
+  "name": " Программист Java Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/java/master"
+},{
+  "_id": {
+    "$oid": "63e00ef410b219e453de6d62"
+  },
+  "name": " Программист Java",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/java"
+},{
+  "_id": {
+    "$oid": "63e00ef610b219e453de6d63"
+  },
+  "name": " Инженер-программист Python Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/python/master"
+},{
+  "_id": {
+    "$oid": "63e00ef710b219e453de6d64"
+  },
+  "name": " Инженер-программист Python",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/python"
+},{
+  "_id": {
+    "$oid": "63e00ef810b219e453de6d65"
+  },
+  "name": " Backend-разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/backend"
+},{
+  "_id": {
+    "$oid": "63e00ef910b219e453de6d66"
+  },
+  "name": " Fullstack-разработчик Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/fullstack/master"
+},{
+  "_id": {
+    "$oid": "63e00efb10b219e453de6d67"
+  },
+  "name": " Fullstack-разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/fullstack"
+},{
+  "_id": {
+    "$oid": "63e00efc10b219e453de6d68"
+  },
+  "name": " Frontend-разработчик Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/frontend/master"
+},{
+  "_id": {
+    "$oid": "63e00efd10b219e453de6d69"
+  },
+  "name": " Frontend-разработчик",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/frontend"
+},{
+  "_id": {
+    "$oid": "63e00efe10b219e453de6d6a"
+  },
+  "name": " Кибернетика умных устройств",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek-university/engineer/iot"
+},{
+  "_id": {
+    "$oid": "63e00eff10b219e453de6d6b"
+  },
+  "name": " Data science",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek-university/engineer/datascience"
+},{
+  "_id": {
+    "$oid": "63e00f0110b219e453de6d6c"
+  },
+  "name": "Метавселенные",
+  "url": "https://gb.ru/geek_university/engineer/metaverse"
+},{
+  "_id": {
+    "$oid": "63e00f0210b219e453de6d6d"
+  },
+  "name": "Искусственный интеллект",
+  "url": "https://gb.ru/geek_university/engineer/ai"
+},{
+  "_id": {
+    "$oid": "63e00f0410b219e453de6d6e"
+  },
+  "name": "Блокчейн",
+  "url": "https://gb.ru/geek_university/engineer/blockchain"
+},{
+  "_id": {
+    "$oid": "63e00f0410b219e453de6d6f"
+  },
+  "name": "Web 3.0",
+  "url": "https://gb.ru/geek_university/engineer/web3"
+},{
+  "_id": {
+    "$oid": "63e00f0610b219e453de6d70"
+  },
+  "name": "ИТ-инженер. Передовые технологии",
+  "url": "https://gb.ru/geek_university/engineer/main"
+},{
+  "_id": {
+    "$oid": "63e00f0710b219e453de6d71"
+  },
+  "name": " Инженер-программист PRO",
+  "level": " Middle+",
+  "learning_lines": " 36 месяцев",
+  "price_per_month": " 8616 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/pro"
+},{
+  "_id": {
+    "$oid": "63e00f0810b219e453de6d72"
+  },
+  "name": " Инженер-программист Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer/master"
+},{
+  "_id": {
+    "$oid": "63e00f0910b219e453de6d73"
+  },
+  "name": " Инженер-программист",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/programmer"
+},{
+  "_id": {
+    "$oid": "63e00f0a10b219e453de6d74"
+  },
+  "name": " Программист-специалист",
+  "level": " Intern",
+  "learning_lines": " 6 месяцев",
+  "price_per_month": " 2445 ₽",
+  "url": "https://gb.ru/geek_university/it-specialist/programmer"
+},{
+  "_id": {
+    "$oid": "63e00f0b10b219e453de6d75"
+  },
+  "name": " ИТ-инженер PRO",
+  "level": " Middle+",
+  "learning_lines": " 36 месяцев",
+  "price_per_month": " 8616 ₽",
+  "url": "https://gb.ru/geek_university/developer/engineer/it-pro"
+},{
+  "_id": {
+    "$oid": "63e00f0c10b219e453de6d76"
+  },
+  "name": " ИТ-инженер Мастер",
+  "level": " Middle",
+  "learning_lines": " 24 месяца",
+  "price_per_month": " 6387 ₽",
+  "url": "https://gb.ru/geek_university/developer/engineer/it-master"
+},{
+  "_id": {
+    "$oid": "63e00f0d10b219e453de6d77"
+  },
+  "name": " ИТ-инженер",
+  "level": " Junior",
+  "learning_lines": " 12 месяцев",
+  "price_per_month": " 4495 ₽",
+  "url": "https://gb.ru/geek_university/developer/engineer"
+},{
+  "_id": {
+    "$oid": "63e00f0f10b219e453de6d78"
+  },
+  "name": " IT-специалист",
+  "level": " Intern",
+  "learning_lines": " 6 месяцев",
+  "price_per_month": " 2445 ₽",
+  "url": "https://gb.ru/geek_university/it-specialist"
+}]
